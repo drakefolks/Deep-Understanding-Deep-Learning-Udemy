@@ -1,6 +1,9 @@
 {
     "cSpell.words": [
         "generalizability",
-        "overfitting"
+        "overfitting",
+        "relu",
+        "symplot",
+        "sympy"
     ]
 }
